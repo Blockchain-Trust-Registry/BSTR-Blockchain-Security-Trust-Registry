@@ -15,8 +15,8 @@ BSTR është një organizatë e pavarur e përkushtuar për vendosjen e standard
 ## Projekte të Verifikuara
 | Projekti | Statusi | Data e Certifikimit | Raporti |
 | :--- | :--- | :--- | :--- |
-| ALB Token | Verified | 2026-07-06 | [Raporti](audits/alb-token-audit.md) |
-| Shqipe Token | Verified | 2026-09-09 | [Raporti](audits/shqipe-token-audit.md) |
+| ALB Token | Verified | 07-06-2026 | [Raporti](audits/alb-token-audit.md) |
+| Shqipe Token | Verified | 09-09-2026 | [Raporti](audits/shqipe-token-audit.md) |
 ## Si të aplikoni për Certifikim
 Organizata jonë operon në mënyrë transparente përmes GitHub.
 1. Hapni një [New Issue](https://github.com/Blockchain-Trust-Registry/governance/issues/new) në këtë repository.
