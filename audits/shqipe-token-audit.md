@@ -4,7 +4,7 @@
 
 ## 1. Analiza e Kodit (Smart Contract)
 - [x] Verifikimi i funksioneve kritike: Kontratë e audituar për `minting` të paautorizuar.
-Gjetja e cenueshmërive: Asnjë back-door i gjetur në kodin Solidity.
+- [x] Gjetja e cenueshmërive: Asnjë back-door i gjetur në kodin Solidity.
 
 ## 2. Likuiditeti
 - [x] Likuiditeti i kyçur (Time-lock): Likuiditeti është konfirmuar i kyçur për 12 muaj.
