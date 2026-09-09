@@ -11,7 +11,7 @@
 - [x] Platforma: TON Network / DeDust.
 
 ## 3. Përfundimi
-Projekti ALB Token plotëson të gjitha standardet e BSSR v1.0 për sigurinë dhe transparencën.
+Projekti ALB Token plotëson të gjitha standardet e BSTR v1.0 për sigurinë dhe transparencën.
 
 ---
 *Vula e Vërtetimit: BSTR-VERIFIED-ALB-2026*
