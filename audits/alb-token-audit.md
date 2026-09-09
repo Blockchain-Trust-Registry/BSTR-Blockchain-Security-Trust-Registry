@@ -14,4 +14,4 @@
 Projekti ALB Token plotëson të gjitha standardet e BSSR v1.0 për sigurinë dhe transparencën.
 
 ---
-*Vula e Vërtetimit: BSSR-VERIFIED-ALB-2026*
+*Vula e Vërtetimit: BSTR-VERIFIED-ALB-2026*
