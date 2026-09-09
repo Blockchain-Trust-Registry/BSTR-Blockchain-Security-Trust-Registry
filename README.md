@@ -1,10 +1,10 @@
-# BSSR: Blockchain Security & Standards Registry
+# BSTR: Blockchain Security & Trust Registry
 
 ## Misioni
-BSSR është një organizatë e pavarur e përkushtuar për vendosjen e standardeve të transparencës, sigurisë dhe besueshmërisë në ekosistemin e aseteve digjitale dhe blockchain. Ne ndërtojmë një "Trust Layer" për të mbrojtur komunitetin nga risqet teknike dhe keqpërdorimet.
+BSTR është një organizatë e pavarur e përkushtuar për vendosjen e standardeve të transparencës, sigurisë dhe besueshmërisë në ekosistemin e aseteve digjitale dhe blockchain. Ne ndërtojmë një "Trust Layer" për të mbrojtur komunitetin nga risqet teknike dhe keqpërdorimet.
 
-## Standardet tona (BSSR v1.0)
-Çdo projekt që dëshiron të marrë certifikimin "Verified by BSSR" duhet të kalojë me sukses këto 5 pika:
+## Standardet tona (BSTR v1.0)
+Çdo projekt që dëshiron të marrë certifikimin "Verified by BSTR" duhet të kalojë me sukses këto 5 pika:
 
 1. **Auditimi i Kodit (Smart Contract):** Verifikimi i kodit burimor për *backdoors* ose gabime kritike.
 2. **Kyçja e Likuiditetit (Liquidity Lock):** Dëshmi se likuiditeti është i kyçur për një periudhë të përcaktuar.
@@ -24,4 +24,4 @@ Organizata jonë operon në mënyrë transparente përmes GitHub.
 3. Ekipi ynë do të kryejë auditimin dhe do të përgjigjet brenda 5 ditëve.
 
 ---
-*BSSR: Building Trust, One Block at a Time.*
+*BSTR: Building Trust, One Block at a Time.*
