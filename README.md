@@ -16,7 +16,7 @@ BSSR është një organizatë e pavarur e përkushtuar për vendosjen e standard
 | Projekti | Statusi | Data e Certifikimit | Raporti |
 | :--- | :--- | :--- | :--- |
 | ALB Token | Verified | 2026-07-06 | [Raporti](audits/alb-token-audit.md) |
-| Shqipe Token | Verified | 2026-09.09 | [Raporti](audits/shqipe-token-audit.md) |
+| Shqipe Token | Verified | 2026-09-09 | [Raporti](audits/shqipe-token-audit.md) |
 ## Si të aplikoni për Certifikim
 Organizata jonë operon në mënyrë transparente përmes GitHub.
 1. Hapni një [New Issue](https://github.com/Blockchain-Trust-Registry/governance/issues/new) në këtë repository.
