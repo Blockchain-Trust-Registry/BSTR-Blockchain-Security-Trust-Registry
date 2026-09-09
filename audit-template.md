@@ -1,5 +1,5 @@
 # Raport Auditimi: [EMRI I PROJEKTIT]
-**Data:** 2026-07-06
+**Data:** 17-06-2026
 **Statusi:** [Pass/Fail/Pending]
 
 ## 1. Analiza e Kodit (Smart Contract)
@@ -11,7 +11,7 @@
 - [ ] Platforma: [p.sh. PancakeSwap, Uniswap]
 
 ## 3. Përfundimi
-Ky projekt plotëson/nuk plotëson standardet e BSSR v1.0.
+Ky projekt plotëson/nuk plotëson standardet e BSTR v1.0.
 
 ---
 *Vula e Vërtetimit: [Link drejt NFT-së ose hash-it të certifikimit]*
